@@ -1,0 +1,23 @@
+.hidden {
+  display: none;
+}
+h1 {
+  color: white;
+}
+
+#quote {
+  display: flex;
+  align-items: center;
+  position: fixed;
+  bottom: 30px;
+  color: white;
+}
+
+body {
+  height: 100vh;
+  margin: 0;
+}
+h2 {
+  color: white;
+  font-size: 150px;
+}
